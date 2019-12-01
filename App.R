@@ -3,7 +3,7 @@ library(shiny)
 library(quantmod)
 
 # Source helpers ----
-source("stockVis/helpers.R")
+source("helpers.R")
 
 # User interface ----
 ui <- fluidPage(
